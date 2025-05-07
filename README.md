@@ -5,6 +5,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://Discordapp.com/users/1199338020088840272)
 
 ![Mateus Oliveira GitHub status](https://github-readme-stats.vercel.app/api?username=Trov4o9&show_icons=true&theme=tokyonight)
+![Mateus Oliveira GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=Trov4o9&layout=compact&langs_count=16&theme=tokyonight)
+
 
 ## Minhas linguagens:
 
